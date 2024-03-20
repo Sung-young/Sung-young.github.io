@@ -85,3 +85,33 @@ body {
   flex-direction: column;
   justify-content: space-around;
 }
+
+.container_right {
+  height: 100%;
+}
+
+.music_header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+.name {
+  padding-left: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.name > img {
+  width: 1.2%;
+  height: 3%;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 80px 10px;
+  width: 1200px;
+  line-height: 20px;
+}

@@ -85,3 +85,16 @@ body {
   flex-direction: column;
   justify-content: space-around;
 }
+
+.container_right {
+  height: 100%;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 50px 20px;
+  width: 1300px;
+  line-height: 20px;
+  align-items: baseline;
+  font-size: 15px;
+}
